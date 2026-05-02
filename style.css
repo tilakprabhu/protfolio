@@ -305,6 +305,8 @@ figcaption{color: #000;font-weight: 700;}
   .php{    right: 186px;}
   .js{left: 170px;}
   .edu-list{padding-left: 5px;}
+  .team-content{max-width: auto; width: auto;}
+  .team{ margin-bottom: 25px;}
 }
 @media (min-width: 768px) and (max-width: 991px){
   .footer-img img{width: 100%;}
