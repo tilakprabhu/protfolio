@@ -611,3 +611,7 @@ img {
   opacity: 1;
   visibility: visible;
 }
+
+.team {
+  margin-bottom: 25px;
+}
