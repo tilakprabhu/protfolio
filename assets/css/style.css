@@ -177,3 +177,17 @@ li {
 .contact-details__content ul li a:hover {
     text-decoration: underline;
 }
+
+@media (min-width: 100px) and (max-width: 767px) {
+    .section-1__content h1 {
+        font-size: 4.375rem;
+    }
+    .section-heading {
+        font-size: 2.5rem;
+        text-align: left;
+    }
+    .contact-details__content {
+        justify-content: start;
+        gap: 1.25rem;
+    }
+}
