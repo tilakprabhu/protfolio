@@ -182,7 +182,7 @@ li {
     .section-1__content h1 {
         font-size: 4.375rem;
     }
-    .section-heading {
+    .section-2 h2, .section-3 h2, .section-4 h2 {
         font-size: 2.5rem;
         text-align: left;
     }
