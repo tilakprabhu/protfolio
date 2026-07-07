@@ -64,7 +64,7 @@ p {font-size: 1rem; margin-block-end: 1rem;}
 .section-2 .partial-1{background-color: var(--primary-color);}
 .section-2 .partial-wrap, .section-2 .partial-1, .section-2 .partial-2{block-size: 100%;}
 .section-2__content {display: flex; flex-direction: column; justify-content: center; block-size: 100%; margin-inline-start: 4rem;}
-.section-2 .partial-2 {background:linear-gradient(to right, #fff 15%, transparent),url(../img/banner.webp); background-repeat: no-repeat; background-size: cover; background-position: center right;}
+.section-2 .partial-2 {background:linear-gradient(to right, #fff 15%, transparent),url(https://wakecups.netlify.app/assets/img/banner.webp); background-repeat: no-repeat; background-size: cover; background-position: center right;}
 .section-2__heading {font-size: 5rem; color: var(--secondary-color);}
 .section-2__content p { font-size: 1.125rem;  color: var(--white-color);}
 
@@ -94,7 +94,7 @@ p {font-size: 1rem; margin-block-end: 1rem;}
 .section-4__menu-title{font-size: 2.188rem; margin-block: 0.625rem; line-height: 1;}
 
 
-.section-5{position: relative; background-image: url(../img/video-bck.webp); padding-block: 8rem; background-position: center; background-repeat: no-repeat; background-size: cover;}
+.section-5{position: relative; background-image: url(https://wakecups.netlify.app/assets/img/video-bck.webp); padding-block: 8rem; background-position: center; background-repeat: no-repeat; background-size: cover;}
 .section-5__heading{color: var(--white-color); margin-block-end: 1rem;}
 .section-15__description{color: var(--white-color);}
 .btn-call{border: 1px solid var(--white-color); color: var(--white-color); padding: 0.8rem 1rem; text-decoration: none; margin-block-start: 1rem; display: inline-block;}
